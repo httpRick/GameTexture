@@ -8,7 +8,7 @@ Autorzy
 ========================================================================
 
 - Rick <Main Developer>
-- Forkerer <Support> [Original use code: https://github.com/forkerer/MTA-IMGLoader]
+- Forkerer <Support> Original use code [GitHub Pages](https://github.com/forkerer/MTA-IMGLoader).
 
 Licencja
 ========================================================================
