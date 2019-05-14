@@ -8,6 +8,9 @@ Autorzy
 ========================================================================
 
 - [Rick](https://github.com/httpRick) <Main Developer>
+
+Podziękowania
+========================================================================
 - [Forkerer](https://github.com/forkerer) <Support> - wykorzystywany zasób [MTA-IMGLoader](https://github.com/forkerer/MTA-IMGLoader).
 
 Licencja
