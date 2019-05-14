@@ -1,5 +1,10 @@
 # GameTexture
 
+https://i.gyazo.com/113deb00524a35382e30e8ec40905c29.gif
+
+https://i.gyazo.com/8249699ca48b225fb6fe4933dcd0da0a.gif
+
+
 *EN (Englisch)*
 ===========
 
