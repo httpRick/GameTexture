@@ -1,7 +1,8 @@
 # GameTexture
 
 
-*PL*
+*PL (Polish)*
+===========
 
 Czym jest zasób GameTexture?
 ===========
