@@ -25,7 +25,7 @@ Zawartość repozytorium
 
 W repozytorium znajduje się:
 * Kod LUA serwera
-* Plik IMG zawierający 2048 textur
+* Plik IMG zawierający 2048 textur (Na Licencji Rockstar North Games)
 * Plik fx tworzacy shader na textury
 
 
