@@ -1,5 +1,8 @@
 # GameTexture
 
+
+*PL*
+
 Czym jest zasób GameTexture?
 ===========
 zasób umożliwający nakładać wszystkie textury z gry Grand Theft Auto San Andreas oraz textury z SAMP 0.3 C.
