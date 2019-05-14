@@ -9,9 +9,10 @@
 
 	<script src="shared/utilities.lua" type="shared"/>
 
-	<script src="client/Editor.lua" type="client" cache="false"/>
-	<script src="client/core.lua" type="client" cache="false"/>
+	<script src="client/Core_C.lua" type="client" cache="false"/>
 
+	<script src="client/example.lua" type="client" cache="false"/>
+	
 	<file src="res/img/textures.img" type="client"/>
 	<file src="res/shader/SATexture.fx" type="client"/>
 </meta>
