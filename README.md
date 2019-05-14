@@ -7,8 +7,8 @@ zasób umożliwający nakładać wszystkie textury z gry Grand Theft Auto San An
 Autorzy
 ========================================================================
 
-- (https://github.com/httpRick)Rick <Main Developer>
-- (https://github.com/forkerer)Forkerer <Support> Original use code [MTA-IMGLoader](https://github.com/forkerer/MTA-IMGLoader).
+- [Rick](https://github.com/httpRick) <Main Developer>
+- [Forkerer](https://github.com/forkerer) <Support> Original use code [MTA-IMGLoader](https://github.com/forkerer/MTA-IMGLoader).
 
 Licencja
 ========================================================================
