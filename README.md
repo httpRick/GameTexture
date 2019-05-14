@@ -1,5 +1,46 @@
 # GameTexture
 
+*EN (Englisch)*
+===========
+
+
+What is the GameTexture resource?
+===========
+This resource that allows you to apply all textures from Grand Theft Auto San Andreas and textures with SAMP 0.3 C.
+
+Author
+========================================================================
+
+- [Rick](https://github.com/httpRick) <Main Developer>
+
+Special Thanks
+========================================================================
+- [Forkerer](https://github.com/forkerer) <Support> - wykorzystywany zasób [MTA-IMGLoader](https://github.com/forkerer/MTA-IMGLoader).
+
+License
+========================================================================
+
+The code is distributed license: GPLv3.
+
+English translation of the GPLv3 license: https://www.gnu.org/licenses/gpl-3.0.en.html
+
+
+The repository includes:
+========================================================================
+
+The repository includes:
+* LUA server code
+* IMG file containing 2048 textur (On Rockstar North Games License)
+* Fx file that creates shader on textures
+
+
+DOCUMENTATION
+========================================================================
+
+Write Comming Soon.
+
+
+
 
 *PL (Polish)*
 ===========
