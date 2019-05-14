@@ -1,0 +1,17 @@
+<meta>
+	<info version="1.0.0" type="script" author="Rick" />
+	<oop>true</oop>
+	<script src="client/libs/BinaryConverter/Classes/BinaryConverter.lua" type="client" cache="false"/>
+	<script src="client/libs/BinaryReader/Classes/BinaryReader.lua" type="client" cache="false"/>
+	<script src="client/libs/IMGLoader/Classes/IMGLoader.lua" type="client" cache="false"/>
+	<script src="client/libs/TextureManager/Classes/TextureManager.lua" type="client" cache="false"/>
+	<script src="client/libs/ShaderManager/Classes/ShaderManager.lua" type="client" cache="false"/>
+
+	<script src="shared/utilities.lua" type="shared"/>
+
+	<script src="client/Editor.lua" type="client" cache="false"/>
+	<script src="client/core.lua" type="client" cache="false"/>
+
+	<file src="res/img/textures.img" type="client"/>
+	<file src="res/shader/SATexture.fx" type="client"/>
+</meta>
