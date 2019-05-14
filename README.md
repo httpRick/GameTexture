@@ -29,11 +29,4 @@ W repozytorium znajduje się:
 DOKUMENTACJA
 ========================================================================
 
-Przykład nakładania tekstury na obiekt:
-
-index - indeks tekstury może być nazwa tekstury lub numer
-red, green, blue - kolory RGB textury
-brightness - natężenie światła białego
-
-local exampleObject = Object(980, 0.0, 0.0, 0.0)
-setElementData(exampleObject, "GameTexture", { {index = 1, red = 0, green = 0, blue = 0 }, {index = 2, red = 0, green = 0, blue = 0 } } )
+Uzupełniona niedługo.
