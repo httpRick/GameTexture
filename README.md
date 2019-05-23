@@ -1,6 +1,6 @@
 # GameTexture
 
-![image](https://i.gyazo.com/113deb00524a35382e30e8ec40905c29.gif)
+![DEMO](https://i.gyazo.com/113deb00524a35382e30e8ec40905c29.gif)
 
 
 *EN (Englisch)*
