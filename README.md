@@ -18,7 +18,7 @@ Author
 
 Special Thanks
 ========================================================================
-- [Forkerer](https://github.com/forkerer) <Support> - wykorzystywany zasób [MTA-IMGLoader](https://github.com/forkerer/MTA-IMGLoader).
+- [Forkerer](https://github.com/forkerer) <Support> - resource used [MTA-IMGLoader](https://github.com/forkerer/MTA-IMGLoader).
 
 License
 ========================================================================
